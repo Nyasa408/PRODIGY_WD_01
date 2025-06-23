@@ -3,11 +3,6 @@
 
 A modern, mobile-first, fully responsive landing page built using HTML5, CSS3, and JavaScript. Perfect for showcasing a product, app, or personal brand.
 
-## 📸 Live Demo
-
-[Click here to view live](https://your-live-link.com)  
-*(Replace with your actual live link if hosted on GitHub Pages, Netlify, or Vercel)*
-
 ---
 
 ## 🛠️ Features
